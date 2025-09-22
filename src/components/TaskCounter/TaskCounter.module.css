@@ -1,0 +1,10 @@
+.counter {
+  color: #00f7ff;
+  font-size: 1.2rem;
+  text-shadow: 0 0 8px #00f7ff;
+  margin: 20px 0;
+}
+p{
+  color: #00f7ff;
+  text-shadow: 0 0 5px #00f7ff, 0 0 10px #00f7ff;
+}

@@ -1,0 +1,20 @@
+.form {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.input {
+  flex: 1;
+  padding: 10px;
+  border: 2px solid #00f7ff;
+  border-radius: 6px;
+  background: #0d0d2b;
+  color: #ffffff;
+  outline: none;
+  text-shadow: 0 0 5px #00f7ff;
+}
+
+.input:focus {
+  box-shadow: 0 0 10px #00f7ff;
+}

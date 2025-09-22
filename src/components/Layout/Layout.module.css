@@ -1,0 +1,9 @@
+.layout {
+  background: #050514;
+  min-height: 100vh;
+  color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}

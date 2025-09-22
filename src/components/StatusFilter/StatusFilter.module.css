@@ -1,0 +1,22 @@
+.filter {
+  margin: 15px 0;
+  display: flex;
+  gap: 15px;
+}
+
+.filterButton {
+  background: transparent;
+  border: 2px solid #00f7ff;
+  padding: 8px 16px;
+  border-radius: 6px;
+  color: #00f7ff;
+  cursor: pointer;
+  transition: 0.3s;
+  text-shadow: 0 0 5px #00f7ff;
+}
+
+.filterButton.active {
+  background: #00f7ff;
+  color: #0d0d2b;
+  box-shadow: 0 0 15px #00f7ff;
+}
